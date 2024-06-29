@@ -1,0 +1,3 @@
+import buildingAcalculator
+
+buildingAcalculator.calculator()
